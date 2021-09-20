@@ -1,0 +1,59 @@
+/* add css module styles here (optional) */
+
+.overlay {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, .7);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.modal {
+  position: fixed;
+  z-index: 20;
+  width: 500px;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.modal__header {
+  background: #fff;
+  padding: 3px 25px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid gray;
+}
+
+.modal__main {
+  padding: 20px;
+}
+
+.close_button {
+  border: none;
+  outline: 0;
+  background: transparent;
+  padding: 10px;
+  cursor: pointer;
+  color: #000;
+  font-size: 36px;
+}
+
+.close_button:hover {
+  color: gray;
+}
+
+.button {
+  background: grey;
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  cursor: pointer;
+
+}
+
+.button:hover {
+  background: orange;
+}
