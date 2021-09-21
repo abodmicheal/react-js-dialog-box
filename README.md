@@ -1,6 +1,6 @@
 # react-js-dialog-box
 
-> simple react.js modal box
+> simple react.js modal box library 
 
 [![NPM](https://img.shields.io/npm/v/react-js-dialog-box.svg)](https://www.npmjs.com/package/react-js-dialog-box) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
