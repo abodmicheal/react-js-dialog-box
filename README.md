@@ -58,7 +58,7 @@ class App extends React.Component {
               bodyBackgroundColor='white'
               bodyTextColor='black'
               bodyHeight='200px'
-              headerText='Hearder '
+              headerText='Title'
             >
               <div>
                 <h1>Dialog Content</h1>
